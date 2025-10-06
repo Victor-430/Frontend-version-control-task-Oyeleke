@@ -93,9 +93,9 @@ _Pull request showing code review and approval process_
 
 **Examples used in this Project:**
 
-✅ feat: add basic header HTML structure
-✅ style: add footer styling and layout
-✅ feat: create footer with copyright text
+* feat: add basic header HTML structure
+* style: add footer styling and layout
+* feat: create footer with copyright text
 
 # Lessons Learned
 
